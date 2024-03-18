@@ -1,0 +1,23 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.first-div {
+  background-color: #c4c4c4;
+  width: 604px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 35.16px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.09px;
+  margin-top: 25px;
+}
